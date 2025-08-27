@@ -81,7 +81,7 @@ POST /add\_transaction
 
 ## Screenshots
 
-(images/blockchain\_api\_testing.jpg)
-(images/flask\_server\_logs.jpg)
+(output images/all_endpoints_output.jpg)
+(output images/flask_server_logs.jpg)
 
 ---
